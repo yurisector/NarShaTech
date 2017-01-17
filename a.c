@@ -3,5 +3,5 @@
 int main ()
 {
 	printf("hellow world");
-	return 0;
+	return 2;
 }
