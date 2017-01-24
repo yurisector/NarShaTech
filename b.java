@@ -8,5 +8,10 @@ class dictionary {
 				System.out.println(w + "starts with fu");
 
 	}
+
+		for (String w :words){
+			if(w.endsWith("nk"))
+				System.out.println(w + "ends with nk");
+		}
 	}
 }
